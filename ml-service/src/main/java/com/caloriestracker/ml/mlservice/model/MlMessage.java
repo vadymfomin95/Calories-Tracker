@@ -1,4 +1,4 @@
-package model;
+package com.caloriestracker.ml.mlservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

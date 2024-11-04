@@ -2,8 +2,8 @@ package com.caloriestracker.ml.mlservice.service;
 
 import com.caloriestracker.ml.mlservice.configuration.MlConfigurationProperties;
 import lombok.RequiredArgsConstructor;
-import model.MlMessage;
-import model.MlRequest;
+import com.caloriestracker.ml.mlservice.model.MlMessage;
+import com.caloriestracker.ml.mlservice.model.MlRequest;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
