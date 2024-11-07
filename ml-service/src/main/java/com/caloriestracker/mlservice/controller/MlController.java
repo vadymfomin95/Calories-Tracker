@@ -1,7 +1,7 @@
-package com.caloriestracker.ml.mlservice.controller;
+package com.caloriestracker.mlservice.controller;
 
-import com.caloriestracker.ml.mlservice.dto.MlRequest;
-import com.caloriestracker.ml.mlservice.service.MlService;
+import com.caloriestracker.mlservice.dto.MlRequest;
+import com.caloriestracker.mlservice.service.MlService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

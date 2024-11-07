@@ -1,4 +1,4 @@
-package com.caloriestracker.ml.mlservice.configuration;
+package com.caloriestracker.mlservice.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

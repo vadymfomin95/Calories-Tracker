@@ -1,4 +1,4 @@
-package com.caloriestracker.ml.mlservice;
+package com.caloriestracker.mlservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.caloriestracker.ml.mlservice.model;
+package com.caloriestracker.mlservice.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Builder;

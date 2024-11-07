@@ -1,6 +1,6 @@
-package com.caloriestracker.ml.mlservice;
+package com.caloriestracker.mlservice;
 
-import com.caloriestracker.ml.mlservice.configuration.MlConfigurationProperties;
+import com.caloriestracker.mlservice.configuration.MlConfigurationProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

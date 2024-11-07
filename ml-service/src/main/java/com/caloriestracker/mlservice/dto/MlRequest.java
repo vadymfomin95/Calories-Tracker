@@ -1,4 +1,4 @@
-package com.caloriestracker.ml.mlservice.dto;
+package com.caloriestracker.mlservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
